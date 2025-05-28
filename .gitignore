@@ -44,3 +44,4 @@ HELP.md
 node_modules/
 dist/
 .env
+frontend/.angular/

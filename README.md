@@ -59,13 +59,13 @@ http://localhost:4200/pages/empleados
     (Agrega aquí tus capturas en formato Markdown cuando las tengas cargadas en la carpeta assets/)
 
 ![Vista del proyecto - Lista de empleados](./frontend/src/assets/vista_empleados.png)
-![Vista del proyecto - nuevo empleado](./src/assets/nuevo_empleados.png)
-![Vista del proyecto - editar empleado](./src/assets/editar_empleados.png)
-![Vista del proyecto - lista empleado actualizada](./src/assets/vista_empleados_actualizada.png)
-![Vista del proyecto - logeo lista asistencia](./src/assets/logeo_lista_asistencia.png)
-![Vista del proyecto - lista asistencia](./src/assets/lista_asistencia.png)
-![Vista del proyecto - registrar asistencia](./src/assets/registrar_asistencia.png)
-![Vista del proyecto - vista asistencia actualizada](./src/assets/vista_asistencia.png)
+![Vista del proyecto - nuevo empleado](./fronted/src/assets/nuevo_empleados.png)
+![Vista del proyecto - editar empleado](./fronted/src/assets/editar_empleados.png)
+![Vista del proyecto - lista empleado actualizada](./fronted/src/assets/vista_empleados_actualizada.png)
+![Vista del proyecto - logeo lista asistencia](./fronted/src/assets/logeo_lista_asistencia.png)
+![Vista del proyecto - lista asistencia](./fronted/src/assets/lista_asistencia.png)
+![Vista del proyecto - registrar asistencia](./fronted/src/assets/registrar_asistencia.png)
+![Vista del proyecto - vista asistencia actualizada](./fronted/src/assets/vista_asistencia.png)
 
 
 📝 Estructura del proyecto

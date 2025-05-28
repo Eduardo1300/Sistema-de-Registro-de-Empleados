@@ -58,7 +58,7 @@ http://localhost:4200/pages/empleados
 
     (Agrega aquí tus capturas en formato Markdown cuando las tengas cargadas en la carpeta assets/)
 
-![Vista del proyecto - Lista de empleados](./assets/vista_empleados.png)
+![Vista del proyecto - Lista de empleados](../src/assets/vista_empleados.png)
 ![Vista del proyecto - nuevo empleado](./src/assets/nuevo_empleados.png)
 ![Vista del proyecto - editar empleado](./src/assets/editar_empleados.png)
 ![Vista del proyecto - lista empleado actualizada](./src/assets/vista_empleados_actualizada.png)

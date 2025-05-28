@@ -56,7 +56,7 @@ http://localhost:4200/pages/empleados
 
 🖼️ Capturas de pantalla
 
-    (Agrega aquí tus capturas en formato Markdown cuando las tengas cargadas en la carpeta assets/)
+  
 
 ![Vista del proyecto - Lista de empleados](./frontend/src/assets/vista_empleados.png)
 ![Vista del proyecto - nuevo empleado](./frontend/src/assets/nuevo_empleados.png)

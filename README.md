@@ -77,7 +77,10 @@ proyecto-spring/
 └── .gitignore                # Ignorar archivos innecesarios
 
 
-💬 Contacto
+👨‍💻 Autor
 
-¡Gracias por revisar este proyecto!
-Para dudas, sugerencias o mejoras, no dudes en contactarme vía GitHub.
+Christopher Eduardo Valdivia Baca
+📍 Estudiante de Computación e Informática — Cibertec Callao
+🔗 LinkedIn
+📧 eduardovaldivia130@outlook.es
+📱 +51 953 587 619

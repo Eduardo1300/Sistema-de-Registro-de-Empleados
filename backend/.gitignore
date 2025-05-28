@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Angular / Node.js (si llegara a haber frontend embebido) ###
+node_modules/
+dist/
+.env

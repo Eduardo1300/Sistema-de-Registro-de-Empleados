@@ -1,0 +1,46 @@
+# ============ BACKEND (Spring Boot) ============
+target/
+*.jar
+*.war
+*.class
+
+# Archivos de configuración sensibles
+application-*.properties
+
+# IDEs - IntelliJ, Eclipse, VS Code
+*.iml
+.idea/
+.vscode/
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# Archivos de compilación de Gradle o Maven
+build/
+.gradle/
+.mvn/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# STS
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Otros
+HELP.md
+
+# ============ FRONTEND (Angular / Node.js) ============
+node_modules/
+dist/
+.env
